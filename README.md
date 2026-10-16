@@ -1,0 +1,2 @@
+# orginazer
+chatgpt 
